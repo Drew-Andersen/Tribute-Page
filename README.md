@@ -3,6 +3,11 @@
 ## Description
 
 This tribute page shows a timeline of General Andersen's life. 
+![alt text](<Screenshot 2024-06-25 at 7.24.27 PM.png>)
+
+## Deployed Website
+
+https://drew-andersen.github.io/Tribute-Page/
 
 ## Installation
 
